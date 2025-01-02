@@ -1,4 +1,7 @@
-## Hello, Friends, my name is Dmitry 👋
+## 👋Hello, Friends, my name is Dmitry 
+I'm a beginner python developer, work as a Junior Developer, study the language on courses.
+I want to learn other languages, but for now I'm just at the beginning of my journey in Go and Cobol.
+
 
 <!--
 **DmitryShvedov88/DmitryShvedov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
