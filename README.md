@@ -3,6 +3,12 @@
 - I want to learn other languages, but for now I'm just at the beginning of my journey in Go and Cobol.
 <img src="https://komarev.com/ghpvc/?username=DmitryShvedov88&style=flat-square&color=blue" alt=""/>
 
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=George-c0de&layout=compact">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-c0de&layout=compact"  alt="state"/>
+</a>
+</div>
+
 <!--
 **DmitryShvedov88/DmitryShvedov88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
